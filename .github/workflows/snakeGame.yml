@@ -15,16 +15,13 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-permissions:
-  contents: write
-  
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v3
+      #- uses: actions/checkout@v3
       
       - name: generate svgs
         uses: Platane/snk@v3
