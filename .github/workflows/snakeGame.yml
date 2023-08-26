@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      #- uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       
       - name: generate svgs
         uses: Platane/snk@v3
