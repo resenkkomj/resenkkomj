@@ -38,7 +38,7 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#D3D3D320&color_dots=#161B21,#012032,#043445,#0F626D,#00B0C6
+            dist/github-snake-dark.svg?color_snake=#D3D3D3&color_dots=#161B21,#012032,#043445,#0F626D,#00B0C6
             dist/github-snake-light.svg?color_snake=#FF01A6&color_dots=#ECEDF1,#9AE9E3,#40C1C3,#309EA1,#216A6E
         env:
           # a github token is required to fetch the contribution calendar from github API
