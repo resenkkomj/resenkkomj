@@ -21,7 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=resenkkomj&color=brightgreen&style=for-the-badge&label=👁️ Visitors" alt="watching_count"/>
 </div>
 
-## About me <img src="./src/gif/komi-nervous.gif" alt="Komi-san nervous" height="50" >
+<h2>About me <img src="./src/gif/komi-nervous.gif" alt="Komi-san nervous" height="50" ></h2>
 
 - 🚀 My Real Name is: ***Henrique***
 - 📍 I'm from: ***Brazil***
