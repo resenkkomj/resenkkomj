@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/gif/lain-room.gif" alt="Lain from Serial Experiments Lain" height="200">
+    <img src="./src/gif/lain-room.gif" alt="Lain from Serial Experiments Lain" height="180">
 </div>
 
 <samp align="center">
@@ -71,11 +71,11 @@
 
 <div align="center" width="100%" style="display: flex; justify-content: space-between;">
     <!-- Dark -->
-    <img src="https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=c2c2c2#gh-dark-mode-only" alt="Resen's GitHub stats" width="56%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&layout=compact#gh-dark-mode-only" alt="Top Languages" width="42%">
+    <img src="https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=c2c2c2" alt="Resen's GitHub stats" width="56%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&layout=compact" alt="Top Languages" width="42%">
     <!-- Light -->
-    <img src="https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=225252#gh-light-mode-only" alt="Resen's GitHub stats" width="56%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&layout=compact#gh-light-mode-only" alt="Top Languages" width="42%">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=225252#gh-light-mode-only" alt="Resen's GitHub stats" width="56%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&layout=compact#gh-light-mode-only" alt="Top Languages" width="42%"> -->
 </div>
 
 ## Main Repositories 📁
@@ -83,15 +83,15 @@
 <div align="center" width="100%" style="display: flex; justify-content: space-between;">
     <a href="https://github.com/resenkkomj/instagram-save-downloader" width="50%">
         <!-- Dark -->
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=instagram-save-downloader&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0#gh-dark-mode-only" alt="Main Repo 1" width="96%">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=instagram-save-downloader&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0" alt="Main Repo 1" width="49%">
         <!-- Light -->
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=instagram-save-downloader&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&icon_color=00B0C0#gh-light-mode-only" alt="Main Repo 1" width="96%">
+        <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=instagram-save-downloader&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&icon_color=00B0C0#gh-light-mode-only" alt="Main Repo 1" width="96%"> -->
     </a>
     <a href="https://github.com/resenkkomj/IFCuida" width="50%">
         <!-- Dark -->
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=IFCuida&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0#gh-dark-mode-only" alt="Main Repo 2" width="96%">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=IFCuida&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0" alt="Main Repo 2" width="49%">
         <!-- Light -->
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=IFCuida&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&icon_color=00B0C0#gh-light-mode-only" alt="Main Repo 2" width="49%">
+        <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=IFCuida&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&icon_color=00B0C0#gh-light-mode-only" alt="Main Repo 2" width="49%"> -->
     </a>
 </div>
 
