@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/teste.gif" alt="Lain from Serial Experiments Lain" height="180" loading="lazy">
+    <img src="./src/gif/teste.gif" alt="Lain from Serial Experiments Lain" height="180" loading="lazy">
 </div>
 
 <samp align="center">
