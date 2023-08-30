@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Stats IMGs
+      - name: Generate Stats SVG
         uses: suisei-cn/actions-download-file@v1.4.0
         id: gh-stats
         with:
@@ -24,10 +24,34 @@ jobs:
           target: dist/
           filename: gh-stats.svg
 
+      - name: Generate Top Languages SVG
+        uses: suisei-cn/actions-download-file@v1.4.0
+        id: gh-top-lang
+        with:
+          url: "https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&layout=compact"
+          target: dist/
+          filename: gh-top-lang.svg
+
+      - name: Generate Main Repo 1 SVG
+        uses: suisei-cn/actions-download-file@v1.4.0
+        id: main-repo01
+        with:
+          url: "https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=instagram-save-downloader&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0"
+          target: dist/
+          filename: main-repo01.svg
+
+      - name: Generate Main Repo 2 SVG
+        uses: suisei-cn/actions-download-file@v1.4.0
+        id: main-repo02
+        with:
+          url: "https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=IFCuida&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0"
+          target: dist/
+          filename: main-repo02.svg
+
       - name: push svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: gh-stats
+          target_branch: gh-stats-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACTION_TOKEN }}
