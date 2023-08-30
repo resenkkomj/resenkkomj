@@ -23,6 +23,7 @@ jobs:
           url: "https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=c2c2c2"
           target: dist/
           filename: gh-stats.svg
+          # light: https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=225252
 
       - name: Generate Top Languages SVG
         uses: suisei-cn/actions-download-file@v1.4.0
@@ -31,6 +32,7 @@ jobs:
           url: "https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&layout=compact"
           target: dist/
           filename: gh-top-lang.svg
+          # light: https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&layout=compact
 
       - name: Generate Main Repo 1 SVG
         uses: suisei-cn/actions-download-file@v1.4.0
@@ -39,6 +41,7 @@ jobs:
           url: "https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=instagram-save-downloader&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0"
           target: dist/
           filename: main-repo01.svg
+          # light: https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=instagram-save-downloader&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&icon_color=00B0C0
 
       - name: Generate Main Repo 2 SVG
         uses: suisei-cn/actions-download-file@v1.4.0
@@ -47,6 +50,7 @@ jobs:
           url: "https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=IFCuida&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&icon_color=00B0C0"
           target: dist/
           filename: main-repo02.svg
+          # light: https://github-readme-stats.vercel.app/api/pin?username=resenkkomj&repo=IFCuida&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&text_color=225252&icon_color=00B0C0
 
       - name: push svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
