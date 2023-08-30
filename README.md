@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/gif/lain-room.gif" alt="Lain from Serial Experiments Lain" height="180">
+    <img src="./teste.gif" alt="Lain from Serial Experiments Lain" height="180" loading="lazy">
 </div>
 
 <samp align="center">
@@ -21,7 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=resenkkomj&color=brightgreen&style=for-the-badge&label=👁️ Visitors" alt="watching_count"/>
 </div>
 
-<h2>About me <img src="./src/gif/komi-nervous.gif" alt="Komi-san nervous" height="50" ></h2>
+# About me <img src="./src/gif/komi-nervous.gif" alt="Komi-san nervous" height="50" loading="lazy">
 
 - 🚀 My Real Name is: ***Henrique***
 - 📍 I'm from: ***Brazil***
