@@ -71,7 +71,7 @@
 
 <div align="center" width="100%" style="display: flex; justify-content: space-between;">
     <!-- Dark -->
-    <img src="https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=c2c2c1" alt="Resen's GitHub stats" width="56%">
+    <img src="https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=c2c2c2" alt="Resen's GitHub stats" width="56%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resenkkomj&theme=dark&bg_color=65,00000000,1f2c3c40,50d7f610&text_color=c2c2c2&layout=compact" alt="Top Languages" width="42%">
     <!-- Light -->
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=resenkkomj&show_icons=true&theme=light&title_color=022222&bg_color=65,00000000,50d7f650&rank_icon=github&icon_color=00B0C0&ring_color=00B0C0&text_color=225252#gh-light-mode-only" alt="Resen's GitHub stats" width="56%">
