@@ -63,7 +63,7 @@
 
 <h4 align="center">Feel free if you want to support me financially.</h4>
 <div align="center" width="100%"  style="display: flex; justify-content: center; gap: 1.5%;">
-    <a href="https://tipa.ai/resen"><img src="./src/img/tipaai-badge.png" alt="Tipa.ai Badge"></a>
+    <a href="https://tipa.ai/resen" target="_blank"><img src="./src/img/tipaai-badge.png" alt="Tipa.ai Badge"></a>
     <a href="https://ko-fi.com/resen" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Badge"></a>
 </div>
 
