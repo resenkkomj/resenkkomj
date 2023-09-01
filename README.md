@@ -70,7 +70,7 @@
 ## Statistics 📊
 
 <div align="center" width="100%" style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/resenkkomj/resenkkomj/gh-stats-output/gh-stats.svg" alt="Resen's GitHub stats" width="56%">
+    <img src="https://raw.githubusercontent.com/resenkkomj/resenkkomj/gh-stats-output/gh-stats.svg" alt="Resen's GitHub stats" width="55.5%">
     <img src="https://raw.githubusercontent.com/resenkkomj/resenkkomj/gh-stats-output/gh-top-lang.svg" alt="Top Languages" width="42%">
 </div>
 
