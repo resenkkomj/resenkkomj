@@ -18,7 +18,7 @@
 <div align="center" width="100%" style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/github/followers/resenkkomj?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="followers"/>
     <img src="https://img.shields.io/github/stars/resenkkomj?color=ffd700&style=for-the-badge&label=⭐ Stars" alt="stars">
-    <img src="https://komarev.com/ghpvc/?username=resenkkomj&color=brightgreen&style=for-the-badge&label=👁️ Visitors" alt="watching_count"/>
+    <img src="https://komarev.com/ghpvc/?username=resenkkomj&color=brightgreen&style=for-the-badge&label=👁️%20Visitors" alt="watching_count"/>
 </div>
 
 # About me <img src="./src/gif/komi-nervous.gif" alt="Komi-san nervous" height="50" loading="lazy">
